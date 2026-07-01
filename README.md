@@ -3,17 +3,20 @@
 ## Repository Structure
 
 ```
+## Repository Structure
+
 Project_DataMining/
-├── Project_1.pdf    # Curse of Dimensionality, Iris Dataset, PCA
-├── Project_2.pdf    # Decision Trees, Model Overfitting, Text Classification
-├── Project_3.pdf    # Classifier Comparison, Nonlinear SVM (NuSVC)
-├── Project_4.pdf    # Hierarchical Clustering, K-Means, DBSCAN
+├── Project_1_DM.zip   # Project 1 source files (notebook, code, etc.)
+├── Project_1.pdf       # Curse of Dimensionality, Iris Dataset, PCA
+├── Project_2_DM.zip   # Project 2 source files
+├── Project_2.pdf       # Decision Trees, Model Overfitting, Text Classification
+├── Project_3_DM.zip   # Project 3 source files
+├── Project_3.pdf       # Classifier Comparison, Nonlinear SVM (NuSVC)
+├── Project_4_DM.zip   # Project 4 source files
+├── Project_4.pdf       # Hierarchical Clustering, K-Means, DBSCAN
 └── README.md
 ```
 
-**Files:**
-Project1_DM.zip, Project2_DM.zip, Project3_DM.zip, Project4_DM.zip
-Project_1.pdf, Project_2.pdf, Project_3.pdf, Project_4.pdf
 
 # Project_DataMining
 
